@@ -1,0 +1,98 @@
+*{
+    background-color: gray;
+}
+.divM{
+    border: 3px solid black;
+    display: block;
+    margin-top: 10%;
+    margin-left: 28%;
+    text-align: center;
+    height: 350px;
+    width: 600px;
+    background-color: white;
+}
+.h11{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    background-color: white;
+}
+.h21{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    background-color: white;
+}
+form{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    background-color: white;
+}
+.div1{
+    color: black;
+    margin-bottom: 20px;
+    background-color: white;
+}
+.div2{
+    color: black;
+    margin-bottom: 20px;
+    background-color: white;
+}
+.div3{
+    color: black;
+    margin-bottom: 20px;
+    background-color: white;
+}
+.div4{
+    color: black;
+    margin-top: 40px;
+    display: contents;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: white;
+}
+.input-button{
+    background-color: white;
+    display: block;
+    margin-left: 260px;
+    margin-bottom:10px ;
+    border-radius: 10px;
+}
+.a1{
+    background-color: white;
+}
+.input-nombre{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.input-apellido{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.input-mail{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.input-contraseña{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.input-nombre:hover{
+    background-color: black;
+    transition: .3s;
+}
+.input-apellido:hover{
+    background-color: black;
+    transition: .3s;
+}
+.input-mail:hover{
+    background-color: black;
+    transition: .3s;
+}
+.input-contraseña:hover{
+    background-color: black;
+    transition: .3s;
+}
+@media only screen and(max-width:800px){}
